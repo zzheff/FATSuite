@@ -42,7 +42,7 @@ setting页面中显示的是默认设置，如果要添加关键字可以在文�
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/103415470/204597247-62b46a76-2fdf-4bf1-bab8-295da3488a84.png">
 
 
-首次运行会自动检测keywords.txt创建
+首次运行会自动检测keywords.txt，没有的话会自动创建
 如果临时添加关键字，可直接在关键字界面输入，以英文`,`（逗号）分割。
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/103415470/204607880-85917ccb-41bd-4468-a6d6-a9b127347a68.png">
@@ -72,13 +72,15 @@ setting页面中显示的是默认设置，如果要添加关键字可以在文�
 
 点击“check”跳到检测结果显示页面
 
-<img width="1150" alt="image" src="https://user-images.githubusercontent.com/103415470/204606612-3e54b968-cb1e-4366-96b5-ca0d1b7bbf15.png">
+
+![3241670052978_ pic](https://user-images.githubusercontent.com/103415470/205438065-1580b910-2d09-4e84-baa0-bdf0c1613231.jpg)
 
 
 
 ### 缩略图：
 
-![57291669744390_ pic](https://user-images.githubusercontent.com/103415470/204606125-db186fef-c2f4-4a25-80c8-94d4dbd447c5.jpg)
+
+![3251670065547_ pic](https://user-images.githubusercontent.com/103415470/205438075-e29bc017-6986-4a04-b112-37c155a0d3ac.jpg)
 
 
 
