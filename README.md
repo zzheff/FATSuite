@@ -58,17 +58,16 @@ setting页面中显示的是默认设置，如果要添加关键字可以在文�
 
 示例：目标文件中的URL
 
-<img width="480" alt="Pasted image 20221129130145" src="https://user-images.githubusercontent.com/103415470/204598729-1378cab8-0a6d-49b6-9940-4f0b3fcdabee.png">
+<img width="475" alt="image" src="https://user-images.githubusercontent.com/103415470/205480361-860929a8-211a-461d-a09e-17bce5ded814.png">
 
 会自动为域名添加http和https
 
-<img width="555" alt="Pasted image 20221129182300" src="https://user-images.githubusercontent.com/103415470/204598147-c836489e-7e50-4b12-91d4-3d21b3cd9ce9.png">
 
 
 
 ### 开始检测：
 
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/103415470/204610396-ac064b20-4969-4a33-91fb-3860424b7576.png">
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/103415470/205480367-26bdd960-5c6a-4d06-a062-6b3684840255.png">
 
 
 点击“check”跳到检测结果显示页面
