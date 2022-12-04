@@ -18,6 +18,7 @@ java -Dfile.encoding=utf-8 -jar FATSuite.jar
 
 ### 环境检查：
 点击“Check”检查是否安装chromedriver
+
 注：首次进入时，如未安装会自动识别系统及chrome版本并下载解压（安装好的路径会在“setting”界面显示）
 
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/103415470/204596714-d3808aad-203f-49b6-b9b1-72f401904d7b.png">
@@ -86,7 +87,10 @@ setting页面中显示的是默认设置，如果要添加关键字可以在文�
 ### 缩略图：
 
 
-![3251670065547_ pic](https://user-images.githubusercontent.com/103415470/205438075-e29bc017-6986-4a04-b112-37c155a0d3ac.jpg)
+![57611670137890_ pic](https://user-images.githubusercontent.com/103415470/205479243-82600dba-f4fa-4c06-b51e-1e80416a306b.jpg)
+
+![57621670137924_ pic](https://user-images.githubusercontent.com/103415470/205479253-13e34161-c877-4269-9e5a-2fc58131153a.jpg)
+
 
 
 
