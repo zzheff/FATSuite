@@ -3,6 +3,9 @@ A tool for quick identify vulnerable targets
 
 
 
+![logo](https://user-images.githubusercontent.com/103415470/205480533-87a59a9f-40e1-4bb3-9c4b-5c3f512aeb96.jpg)
+
+
 ## 使用方法：
 ```
 java -jar FATSuite.jar
