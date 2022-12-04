@@ -6,6 +6,13 @@ A tool for quick identify vulnerable targets
 ![logo](https://user-images.githubusercontent.com/103415470/205480533-87a59a9f-40e1-4bb3-9c4b-5c3f512aeb96.jpg)
 
 
+## 工具产生背景：
+
+项目中通过Hunter、FOFA和Zoomeye获取到的资产较多且信息有滞后性。用oneforall等工具收集到的资产较多但信息不足。
+
+且所有获取到的资产都需要逐个访问，花费一些不必要的时间，所以想有一款工具导入目标资产后，可以直接获取目标当下的页面截图、IP、IP地理位置、CIDR、状态码、中间件并自定义Title关键字进行筛选，这样可以更快速的定位薄弱目标。
+
+
 ## 使用方法：
 ```
 java -jar FATSuite.jar
