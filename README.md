@@ -31,7 +31,7 @@ java -Dfile.encoding=utf-8 -jar FATSuite.jar
 ### 环境检查：
 点击“Check”检查是否安装chromedriver
 
-注：首次进入时，如未安装会自动识别系统及chrome版本并下载解压（安装好的路径会在“setting”界面显示）
+注：首次进入时，如未安装会Windows自动识别系统及chrome版本并下载解压，Mac下载后需用户手动双击解压（安装好的路径会在“setting”界面显示）
 
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/103415470/204596714-d3808aad-203f-49b6-b9b1-72f401904d7b.png">
 
