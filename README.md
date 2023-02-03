@@ -13,8 +13,11 @@ A tool for quick identify vulnerable targets
 1.导出为CSV
 <img width="1136" alt="image" src="https://user-images.githubusercontent.com/103415470/216507023-74fcc56a-fab8-4100-85cf-2f0cd4ae3668.png">
 
+2.指纹识别
 
-2.JsFinder插件 
+指纹库是Finger的，师傅们可以自行在plugin中增加
+
+3.JsFinder插件 
 
 注：
 运行JsFinder需要有Python环境
@@ -23,7 +26,7 @@ A tool for quick identify vulnerable targets
 <img width="829" alt="image" src="https://user-images.githubusercontent.com/103415470/216506874-4b397e2f-2291-416c-9a0d-503aa7fcf716.png">
 
 
-3.目录爆破
+4.目录爆破
 <img width="1136" alt="image" src="https://user-images.githubusercontent.com/103415470/216506720-e194a6d2-29f0-4fd3-8e07-2f5c0abd121c.png">
 
 可选后缀：
