@@ -6,6 +6,35 @@ A tool for quick identify vulnerable targets
 ![logo](https://user-images.githubusercontent.com/103415470/205480533-87a59a9f-40e1-4bb3-9c4b-5c3f512aeb96.jpg)
 
 
+## 20230203更新：
+
+新增功能：
+
+1.导出为CSV
+<img width="1136" alt="image" src="https://user-images.githubusercontent.com/103415470/216507023-74fcc56a-fab8-4100-85cf-2f0cd4ae3668.png">
+
+
+2.JsFinder插件 
+
+注：
+运行JsFinder需要有Python环境
+<img width="1136" alt="image" src="https://user-images.githubusercontent.com/103415470/216506911-f2dfe6ce-bebd-4320-9651-73f714773b97.png">
+
+<img width="829" alt="image" src="https://user-images.githubusercontent.com/103415470/216506874-4b397e2f-2291-416c-9a0d-503aa7fcf716.png">
+
+
+3.目录爆破
+<img width="1136" alt="image" src="https://user-images.githubusercontent.com/103415470/216506720-e194a6d2-29f0-4fd3-8e07-2f5c0abd121c.png">
+
+可选后缀：
+<img width="962" alt="image" src="https://user-images.githubusercontent.com/103415470/216506783-b3a65e5b-cf7f-4913-a4f7-71a51ade75c2.png">
+
+
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/103415470/216501918-dbc24e48-0f9c-46b5-80d6-8d5b6596cd00.png">
+可以提前选择需要排除的状态码
+如需每次自动加载，请在StatusCode.txt文件中写入
+
+
 
 ## 工具产生背景：
 
@@ -31,7 +60,8 @@ java -Dfile.encoding=utf-8 -jar FATSuite.jar
 ### 环境检查：
 点击“Check”检查是否安装chromedriver
 
-注：首次进入时，如未安装会Windows自动识别系统及chrome版本并下载解压，Mac下载后需用户手动双击解压（安装好的路径会在“setting”界面显示）
+注：首次进入时，如未安装Windows会自动下载最新版本ChromeDriver并解压，Mac下载后需用户手动双击解压（安装好的路径会在“setting”界面显示）
+注：如Linux运行截图失败，请查看ChromeDriver是否有执行权限
 
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/103415470/204596714-d3808aad-203f-49b6-b9b1-72f401904d7b.png">
 
@@ -103,6 +133,8 @@ setting页面中显示的是默认设置，如果要添加关键字可以在文�
 ![3271670140355_ pic](https://user-images.githubusercontent.com/103415470/205480159-5bade0f7-9c82-458e-b5d4-6c0d743184c9.jpg)
 
 
+## 改进：
+Linux和Mac会根据Chrome的版本下载ChromeDriver
 
 
 
