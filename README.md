@@ -16,6 +16,8 @@ A tool for quick identify vulnerable targets
 2.指纹识别
 
 指纹库是Finger的，师傅们可以自行在plugin中增加
+<img width="1146" alt="image" src="https://user-images.githubusercontent.com/103415470/216521531-f54b913d-685e-47aa-a2a1-e072dad58f02.png">
+
 
 3.JsFinder插件 
 
